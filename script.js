@@ -9,5 +9,6 @@ function fixNav() {
         nav.style.paddingTop = 0;
     }
 }
+
 // for fixing the navbar at top
 window.addEventListener('scroll', fixNav);
